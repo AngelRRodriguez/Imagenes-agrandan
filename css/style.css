@@ -1,0 +1,73 @@
+body{
+   font-family: 'Passion One', cursive;
+
+}
+
+.encabezado{
+       display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 54px;
+    
+}
+
+.bio {
+    width: 1000px;
+    height: 500px;
+    margin-left: 125px;
+    margin-top: 30px;
+}
+
+
+ul{
+    text-align: center;
+    margin-bottom: 9px;
+    margin-right: 42px;
+}
+
+ li{
+    display: inline;
+    padding: 74px;
+    font-size: 33px;
+}
+
+
+#album{
+       float: left;
+    padding-top: 37px;
+    padding-left: 177px;
+    text-align: center;
+    display: block;
+    margin-left: 55px;
+    margin-top: 31px;
+}
+
+
+ div>img:hover{
+    transform: scale(1.30);
+} 
+
+h3{
+   margin-top: 49px;
+    background-color: rgb(208, 255, 20);
+    color: black;
+    border: 50px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+
+footer{
+    width: 95%;
+   text-align: center;
+    color: white;
+    clear: both;
+    padding: 38px;
+}
+   
+}
+
+li a {
+    text-decoration: none;
+    text-decoration: none;
+}
